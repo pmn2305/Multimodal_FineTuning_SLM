@@ -188,31 +188,7 @@ display of weight tracking app
 
 The predictions show that the model captures high-level semantic information about the UI screens, even when the wording differs slightly from the ground truth.
 
-Limitations
 
-Although the model performs well on many examples, several limitations remain:
-
-Some UI screens contain ambiguous contextual information
-
-The model occasionally misinterprets system dialogs or sharing prompts
-
-UI components with minimal text can be harder to describe accurately
-
-Future improvements could include:
-
-training for more epochs
-
-using larger vision-language models
-
-incorporating additional UI datasets
-
-Repository Structure
-rico-multimodal-slm/
-
-training_notebook.ipynb
-inference_notebook.ipynb
-README.md
-requirements.txt
 Reproducibility
 
 To reproduce the results:
