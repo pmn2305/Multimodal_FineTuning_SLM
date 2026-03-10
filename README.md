@@ -140,6 +140,12 @@ It simplifies deployment
 
 The merged model produces outputs that are semantically equivalent to the adapter-based model.
 
+## Model
+
+The fine-tuned model is available on Hugging Face:
+
+https://huggingface.co/USERNAME/rico-blip-lora
+
 Inference
 
 The model generates captions for input screenshots.
