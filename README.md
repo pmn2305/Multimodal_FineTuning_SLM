@@ -144,7 +144,7 @@ The merged model produces outputs that are semantically equivalent to the adapte
 
 The fine-tuned model is available on Hugging Face:
 
-https://huggingface.co/USERNAME/rico-blip-lora
+https://huggingface.co/PMN23/rico-blip-lora
 
 Inference
 
